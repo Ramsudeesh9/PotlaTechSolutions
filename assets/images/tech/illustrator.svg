@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Adobe Illustrator">
+ <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9a00"/><stop offset="1" stop-color="#ff3b00"/></linearGradient></defs>
+ <rect x="4" y="4" width="88" height="88" rx="14" fill="#2b1608"/>
+ <rect x="12" y="12" width="72" height="72" rx="9" fill="none" stroke="url(#g)" stroke-width="3"/>
+ <text x="48" y="61" text-anchor="middle" font-family="Arial,sans-serif" font-size="43" font-weight="700" fill="#ff8a00">Ai</text>
+</svg>
